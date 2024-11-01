@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Honk&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+
+
+body{
+	font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,h2,h3 {
+	font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 39.7;
+}
+
+a{
+
+	text-decoration:none;
+}
+
